@@ -1,5 +1,3 @@
-Claro, vamos melhorar o texto e a apresentação. Vou adicionar algumas formatações para torná-lo mais claro e organizado.
-
 ---
 
 ## Guia para Uso do Script CreateHostZabbixToSME
