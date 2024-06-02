@@ -279,7 +279,7 @@ def enviardados():
             # QUANDO O DISPOSITIVO FOR CAMERA
             if tipodisp == 'CAM':
                 groupid = '366'
-                if get_device_type(ipfinal,username='admin',password='h0wb3@123')==True:
+                if get_device_type(ipfinal,username='usuario',password='PasswordDaCamera')==True:
                     listatemplate.extend([{'templateid':'10564'},{'templateid':'12941'}])
                     interfacetype = 2 #snmp
                     useip = 1  # USAR OU NÃO O IP
@@ -332,7 +332,7 @@ def enviardados():
                     interfacemain = 1
                 else:
                     groupid = '366'
-                    if get_device_type(ipfinal,username='admin',password='h0wb3@123')==True:
+                    if get_device_type(ipfinal,username='usuario',password='PasswordDaCamera')==True:
                         listatemplate.extend([{'templateid':'10564'},{'templateid':'12941'}])
                         dispname = f'CAM{numdisp}'
                         interfacetype = 2 #snmp
