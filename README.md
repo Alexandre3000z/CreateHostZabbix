@@ -6,7 +6,8 @@
 
  ![image](https://github.com/Alexandre3000z/CreateHostZabbixToSME/assets/166437649/aca342ed-9ef4-472a-a0bc-59a786206124)
  
- 2- O programador deve também se atentar nos templatesId, quando o código foi criado, utilizei o id de templates existentes
+ 2- O programador deve também se atentar nos templatesId, quando o código foi criado, utilizei o id de templates existentes.
+  
   • Então agora é necessário a troca por TemplatesId existentes em seu ZABBIX.
 
 3- 
