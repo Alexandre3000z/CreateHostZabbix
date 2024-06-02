@@ -167,7 +167,7 @@ janela.configure(bg='#A52A2A')
 
 # IMAGEM
 diretorio=os.path.dirname(os.path.abspath(__file__))
-imagem = tk.PhotoImage(file=f'{diretorio}\IMG\zabbixlogo.png')
+imagem = tk.PhotoImage(file=f'{diretorio}\zabbixlogo.png')
 label_imagem = tk.Label(janela, image=imagem)
 label_imagem.place(x=1, y=10)
 
